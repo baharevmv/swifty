@@ -1,0 +1,6 @@
+framework module Pods_intens36_LukyanovTests {
+  umbrella header "Pods-intens36-LukyanovTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

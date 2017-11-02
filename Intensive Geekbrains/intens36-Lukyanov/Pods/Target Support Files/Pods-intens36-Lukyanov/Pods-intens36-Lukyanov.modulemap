@@ -1,0 +1,6 @@
+framework module Pods_intens36_Lukyanov {
+  umbrella header "Pods-intens36-Lukyanov-umbrella.h"
+
+  export *
+  module * { export * }
+}
